@@ -1,4 +1,4 @@
-#Compresor de Texto: Codificación Huffman y Aritmética
+# Compresor de Texto: Codificación Huffman y Aritmética
 Este mini proyecto tiene como objetivo demostrar el funcionamiento de dos algoritmos clásicos de compresión de datos: Huffman y Codificación Aritmética. A través de este programa es posible comprimir y descomprimir mensajes de texto, comparando la eficiencia y el comportamiento de cada método.
 
 La herramienta permite trabajar tanto en modo automático, donde se calculan las frecuencias de los caracteres a partir del mensaje de entrada, como en modo manual, donde el usuario puede ingresar las frecuencias de cada símbolo. Esto permite un mayor control del proceso de codificación, especialmente útil para estudiar o analizar el comportamiento de los algoritmos.
